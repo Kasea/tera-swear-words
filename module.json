@@ -1,0 +1,6 @@
+{
+    "servers": ["https://raw.githubusercontent.com/Kaseaa/tera-swear-words/master/"],
+    "supportUrl": "https://github.com/Kaseaa/tera-swear-words/issues",
+    "name": "Tera Swear/Curse Words",
+    "disableAutoUpdate": false
+}
