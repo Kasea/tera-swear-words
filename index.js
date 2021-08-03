@@ -5,8 +5,8 @@ module.exports = function SwearWords(mod) {
   };
 
   for (const data of [
-    ["S_CHAT", 3],
-    ["S_WHISPER", 3],
+    ["S_CHAT", 4],
+    ["S_WHISPER", 4],
     ["S_PRIVATE_CHAT", 1],
     ["C_CHAT", 1],
     ["C_WHISPER", 2],
