@@ -9,7 +9,7 @@ module.exports = function SwearWords(mod) {
     ["S_WHISPER", 3],
     ["S_PRIVATE_CHAT", 1],
     ["C_CHAT", 1],
-    ["C_WHISPER", 1],
+    ["C_WHISPER", 2],
   ]) {
     mod.hook(...data, { order: 100 }, unfilter);
   }
